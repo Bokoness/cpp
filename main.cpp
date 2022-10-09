@@ -1,9 +1,8 @@
 #include <iostream>
-#include "macros.cpp"
-#include "loops.cpp"
+#include "arrays.cpp"
 
 int main() {
-	loops::run();
+	arrays::run();
 	return 0;
 }
 
