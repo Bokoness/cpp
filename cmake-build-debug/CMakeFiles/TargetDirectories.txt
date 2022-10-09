@@ -1,3 +1,0 @@
-/home/bokoness/dev/cpp/cmake-build-debug/CMakeFiles/cpp.dir
-/home/bokoness/dev/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/bokoness/dev/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
