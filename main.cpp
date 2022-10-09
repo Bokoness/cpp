@@ -1,10 +1,8 @@
 #include <iostream>
-#include "output.cpp"
-//#include "conditionals.cpp"
+#include "macros.cpp"
 
 int main() {
-	//	conditionals::run();
-	basics::run();
+	macros::run();
 	return 0;
 }
 
