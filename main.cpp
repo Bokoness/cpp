@@ -1,8 +1,8 @@
 #include <iostream>
-#include "arrays.cpp"
+#include "structs.cpp"
 
 int main() {
-	arrays::run();
+	structs::run();
 	return 0;
 }
 
