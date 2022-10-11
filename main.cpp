@@ -1,8 +1,8 @@
 #include <iostream>
-#include "structs.cpp"
+#include "references_pointers.cpp"
 
 int main() {
-	structs::run();
+	references_pointers::run();
 	return 0;
 }
 
