@@ -1,8 +1,8 @@
 #include <iostream>
-#include "references_pointers.cpp"
+#include "oop.cpp"
 
 int main() {
-	references_pointers::run();
+	oop::run();
 	return 0;
 }
 
